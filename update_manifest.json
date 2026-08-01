@@ -1,16 +1,17 @@
-  {
-  "version": "1.0.1",
-  "versionCode": 2,
+{
+  "version": "1.0.2",
+  "versionCode": 3,
   "apkUrl": "https://github.com/icecreamsoda213456/panpanskii-app-updates/releases/latest/download/app-release.apk",
-  "title": "Our Dates is here",
-  "message": "Plan your days together and keep personal plans in one cozy calendar.",
+  "title": "A fresh new Home",
+  "message": "Your Panpanskii Home is now cleaner, warmer, and easier to explore.",
   "changes": [
-    "Shared couple calendar",
-    "Personal calendar plans",
-    "Movie, game, date, food, and custom activities",
-    "Realtime plan synchronization",
-    "Scheduled date notifications"
+    "Cleaner and more organized Home screen",
+    "New Today Together section",
+    "Faster two-column Quick Actions",
+    "Home, Chat, Garden, and More navigation",
+    "Upcoming shared activity preview",
+    "Cozy Garden and Petdex preserved"
   ],
   "forceUpdate": false,
-"sha256": "ffb02bf7ee1613d6e210d31d706e10b9d907f0a99cce5743284acddef47dca2a"
-  }
+  "sha256": "b6bf485ffb224ca81918bc008ab47183b7630dd6eb615ac082076b3295f1cdd0"
+}
