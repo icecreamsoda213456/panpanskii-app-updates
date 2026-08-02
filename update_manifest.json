@@ -1,17 +1,16 @@
 {
-  "version": "1.0.3",
-  "versionCode": 4,
+  "version": "1.0.5",
+  "versionCode": 6,
   "apkUrl": "https://github.com/icecreamsoda213456/panpanskii-app-updates/releases/latest/download/app-release.apk",
-  "title": "Home feels cozier",
-  "message": "A softer Home and date reminders with sound and vibration are ready.",
+  "title": "Magnetic Hearts Duo",
+  "message": "Bring your hearts together in our new real-time two-player game.",
   "changes": [
-    "Refined and softer Home screen design",
-    "Compact Panda and Koala connection card",
-    "Cleaner Quick Actions and Today Together rows",
-    "Improved upcoming shared-date preview",
-    "Calendar reminders now use sound and vibration",
-    "Cozy Garden and Petdex preserved"
+    "Private two-player Magnetic Hearts rooms",
+    "Real-time Blue and Pink magnetic nodes",
+    "Synchronized Ready state and countdown",
+    "Glowing heart reveal with vibration",
+    "Reconnection, Play Again, and Save Memory"
   ],
   "forceUpdate": false,
-  "sha256": "e3c6d1689a876d3339d579c8827a677e21de668cb2b066a3bfbfc62ebf46e683"
+  "sha256": "913ebaf91a7cf5f2cf492548a33bd3b6b6a2faf67a8c690e3fff0dd4bf023050"
 }
