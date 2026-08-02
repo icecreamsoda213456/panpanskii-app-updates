@@ -1,16 +1,16 @@
 {
-  "version": "1.0.5",
-  "versionCode": 6,
+  "version": "1.0.6",
+  "versionCode": 7,
   "apkUrl": "https://github.com/icecreamsoda213456/panpanskii-app-updates/releases/latest/download/app-release.apk",
-  "title": "Magnetic Hearts Duo",
-  "message": "Bring your hearts together in our new real-time two-player game.",
+  "title": "Magnetic Hearts hotfix",
+  "message": "Magnetic Hearts rooms and Our Dates reminders are now more reliable.",
   "changes": [
-    "Private two-player Magnetic Hearts rooms",
-    "Real-time Blue and Pink magnetic nodes",
-    "Synchronized Ready state and countdown",
-    "Glowing heart reveal with vibration",
-    "Reconnection, Play Again, and Save Memory"
+    "Fixed invalid Magnetic Hearts room ID",
+    "Improved room creation and joining",
+    "Fixed missing calendar notification icon",
+    "Added notification icon fallback",
+    "Improved reminder reliability"
   ],
   "forceUpdate": false,
-  "sha256": "913ebaf91a7cf5f2cf492548a33bd3b6b6a2faf67a8c690e3fff0dd4bf023050"
+  "sha256": "c637282bb16446cf9920c29ca1299c04ed59619607abd644dc5a00a8efb432a9"
 }
