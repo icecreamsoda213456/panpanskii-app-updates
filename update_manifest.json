@@ -1,17 +1,17 @@
 {
-  "version": "1.0.2",
-  "versionCode": 3,
+  "version": "1.0.3",
+  "versionCode": 4,
   "apkUrl": "https://github.com/icecreamsoda213456/panpanskii-app-updates/releases/latest/download/app-release.apk",
-  "title": "A fresh new Home",
-  "message": "Your Panpanskii Home is now cleaner, warmer, and easier to explore.",
+  "title": "Home feels cozier",
+  "message": "A softer Home and date reminders with sound and vibration are ready.",
   "changes": [
-    "Cleaner and more organized Home screen",
-    "New Today Together section",
-    "Faster two-column Quick Actions",
-    "Home, Chat, Garden, and More navigation",
-    "Upcoming shared activity preview",
+    "Refined and softer Home screen design",
+    "Compact Panda and Koala connection card",
+    "Cleaner Quick Actions and Today Together rows",
+    "Improved upcoming shared-date preview",
+    "Calendar reminders now use sound and vibration",
     "Cozy Garden and Petdex preserved"
   ],
   "forceUpdate": false,
-  "sha256": "b6bf485ffb224ca81918bc008ab47183b7630dd6eb615ac082076b3295f1cdd0"
+  "sha256": "e3c6d1689a876d3339d579c8827a677e21de668cb2b066a3bfbfc62ebf46e683"
 }
