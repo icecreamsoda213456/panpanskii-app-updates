@@ -1,16 +1,15 @@
 {
-  "version": "1.0.6",
-  "versionCode": 7,
+  "version": "1.0.7",
+  "versionCode": 8,
   "apkUrl": "https://github.com/icecreamsoda213456/panpanskii-app-updates/releases/latest/download/app-release.apk",
-  "title": "Magnetic Hearts hotfix",
-  "message": "Magnetic Hearts rooms and Our Dates reminders are now more reliable.",
+  "title": "Date alarms are ready",
+  "message": "Our Dates reminders are now louder and more reliable, while App Lock gives you time to briefly leave the app.",
   "changes": [
-    "Fixed invalid Magnetic Hearts room ID",
-    "Improved room creation and joining",
-    "Fixed missing calendar notification icon",
-    "Added notification icon fallback",
-    "Improved reminder reliability"
+    "Alarm-style date reminders with sound and strong vibration",
+    "Exact scheduled alarm test with lock-screen instructions",
+    "Improved notification permission and scheduling checks",
+    "Two-minute App Lock background grace period"
   ],
   "forceUpdate": false,
-  "sha256": "c637282bb16446cf9920c29ca1299c04ed59619607abd644dc5a00a8efb432a9"
+  "sha256": "87f16fad313ed7d24fa28af2812295ae7369ea16c11622455d9f5c30e4881abc"
 }
