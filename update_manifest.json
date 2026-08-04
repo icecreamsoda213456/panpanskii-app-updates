@@ -1,15 +1,16 @@
 {
-  "version": "1.0.7",
-  "versionCode": 8,
+  "version": "1.0.8",
+  "versionCode": 9,
   "apkUrl": "https://github.com/icecreamsoda213456/panpanskii-app-updates/releases/latest/download/app-release.apk",
-  "title": "Date alarms are ready",
-  "message": "Our Dates reminders are now louder and more reliable, while App Lock gives you time to briefly leave the app.",
+  "title": "Cozy Garden stability update",
+  "message": "Our shared garden is now smoother, steadier, and more reliable.",
   "changes": [
-    "Alarm-style date reminders with sound and strong vibration",
-    "Exact scheduled alarm test with lock-screen instructions",
-    "Improved notification permission and scheduling checks",
-    "Two-minute App Lock background grace period"
+    "Improved Cozy Garden day rollover",
+    "More reliable watering confirmation",
+    "Improved Flame asset loading and cleanup",
+    "Better pause, resume, and reduced-motion behavior",
+    "More stable partner mascot display"
   ],
   "forceUpdate": false,
-  "sha256": "87f16fad313ed7d24fa28af2812295ae7369ea16c11622455d9f5c30e4881abc"
+  "sha256": "430bd06fd2805179de28eac2653911fc91869e062de848970ed7fe01a56cc2f1"
 }
