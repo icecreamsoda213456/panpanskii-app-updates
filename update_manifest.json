@@ -1,16 +1,15 @@
 {
-  "version": "1.0.8",
-  "versionCode": 9,
+  "version": "1.0.9",
+  "versionCode": 10,
   "apkUrl": "https://github.com/icecreamsoda213456/panpanskii-app-updates/releases/latest/download/app-release.apk",
-  "title": "Cozy Garden stability update",
-  "message": "Our shared garden is now smoother, steadier, and more reliable.",
+  "title": "Tidier Home screen",
+  "message": "Home is calmer now, and nothing shows up twice.",
   "changes": [
-    "Improved Cozy Garden day rollover",
-    "More reliable watering confirmation",
-    "Improved Flame asset loading and cleanup",
-    "Better pause, resume, and reduced-motion behavior",
-    "More stable partner mascot display"
+    "Home no longer repeats what the More tab already lists",
+    "Home keeps Today Together, Quick Actions and Next Together",
+    "One card on Home now opens the More tab",
+    "More tab groups everything else into Connect, Memories and Reflect"
   ],
   "forceUpdate": false,
-  "sha256": "430bd06fd2805179de28eac2653911fc91869e062de848970ed7fe01a56cc2f1"
+  "sha256": "1232b6c4673fe74d0b6081c78166164a4ea12ac6ae2f828e4d5869ae4766899e"
 }
