@@ -1,15 +1,16 @@
 {
-  "version": "1.0.9",
-  "versionCode": 10,
+  "version": "1.0.10",
+  "versionCode": 11,
   "apkUrl": "https://github.com/icecreamsoda213456/panpanskii-app-updates/releases/latest/download/app-release.apk",
-  "title": "Tidier Home screen",
-  "message": "Home is calmer now, and nothing shows up twice.",
+  "title": "Widget Notes and faster updates",
+  "message": "Your partner's notes now live on your home screen.",
   "changes": [
-    "Home no longer repeats what the More tab already lists",
-    "Home keeps Today Together, Quick Actions and Next Together",
-    "One card on Home now opens the More tab",
-    "More tab groups everything else into Connect, Memories and Reflect"
+    "New home-screen widget shows your partner's hand-drawn note",
+    "The widget refreshes on its own using WiFi or mobile data",
+    "Draw and send notes from the new Widget Notes screen",
+    "Daily Duo now resets at 6 AM Manila time",
+    "Fixed the tulip plant rendering in Cozy Garden"
   ],
   "forceUpdate": false,
-  "sha256": "1232b6c4673fe74d0b6081c78166164a4ea12ac6ae2f828e4d5869ae4766899e"
+  "sha256": "0E914C258F491A1117F414930C32E50428136A9BE868DC1A930B6AED32F91D8E"
 }
