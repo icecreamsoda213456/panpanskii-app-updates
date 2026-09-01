@@ -1,15 +1,16 @@
 {
-  "version": "1.0.11",
-  "versionCode": 12,
+  "version": "1.0.12",
+  "versionCode": 13,
   "apkUrl": "https://github.com/icecreamsoda213456/panpanskii-app-updates/releases/latest/download/app-release.apk",
-  "title": "Widget Notes fixes",
-  "message": "Drawing is fixed and the widget got a calmer look.",
+  "title": "Widget Notes - gumagana na nang buo",
+  "message": "Auto-update na ang partner's widget pagka-send mo, live drawing na, at naayos ang push.",
   "changes": [
-    "Fixed drawing on the Widget Notes canvas",
-    "Bigger default widget size on the home screen",
-    "New calming lavender widget background",
-    "Softer spinner and text colors"
+    "Live drawing fix",
+    "Auto widget update via push (parang messaging)",
+    "Fixed Supabase Edge Function 500 (auto-delete ng patay na FCM tokens)",
+    "Bagong Widget Notes Diagnostics screen",
+    "Mas malaki ang widget at pure black background"
   ],
   "forceUpdate": false,
-  "sha256": "17F173CB42F7C3DFE5CFB671E04417BF6F6698BBEE87132F2EA8834F18D7C026"
+  "sha256": "304A8746FE9DE84527096823F5A7095E5564AB71C51A0201651F4F07FF64C6F2"
 }
