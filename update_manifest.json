@@ -1,16 +1,16 @@
 {
-  "version": "1.0.12",
-  "versionCode": 13,
+  "version": "1.0.13",
+  "versionCode": 14,
   "apkUrl": "https://github.com/icecreamsoda213456/panpanskii-app-updates/releases/latest/download/app-release.apk",
-  "title": "Widget Notes - gumagana na nang buo",
-  "message": "Auto-update na ang partner's widget pagka-send mo, live drawing na, at naayos ang push.",
+  "title": "My Majoywork Files",
+  "message": "Your private PDF workspace is ready with fast search and page-linked answers.",
   "changes": [
-    "Live drawing fix",
-    "Auto widget update via push (parang messaging)",
-    "Fixed Supabase Edge Function 500 (auto-delete ng patay na FCM tokens)",
-    "Bagong Widget Notes Diagnostics screen",
-    "Mas malaki ang widget at pure black background"
+    "Upload, read, rename, and delete private PDFs",
+    "Search inside every indexed PDF",
+    "Open search results and citations on the exact page",
+    "Ask questions with grounded, page-cited answers",
+    "Faster extraction and smoother large-document reading"
   ],
   "forceUpdate": false,
-  "sha256": "304A8746FE9DE84527096823F5A7095E5564AB71C51A0201651F4F07FF64C6F2"
+  "sha256": "AA8F30D27186C2993AD4A4679008D3F2880AC6CD174A444B0BE228251EEB8B07"
 }
