@@ -1,16 +1,16 @@
 {
-  "version": "1.0.13",
-  "versionCode": 14,
+  "version": "1.0.15",
+  "versionCode": 16,
   "apkUrl": "https://github.com/icecreamsoda213456/panpanskii-app-updates/releases/latest/download/app-release.apk",
-  "title": "My Majoywork Files",
-  "message": "Your private PDF workspace is ready with fast search and page-linked answers.",
+  "title": "Shared garden and smarter PDFs",
+  "message": "Your garden is now one shared space, PDF answers are faster and more accurate, and updates check themselves reliably.",
   "changes": [
-    "Upload, read, rename, and delete private PDFs",
-    "Search inside every indexed PDF",
-    "Open search results and citations on the exact page",
-    "Ask questions with grounded, page-cited answers",
-    "Faster extraction and smoother large-document reading"
+    "Cozy Garden now runs on one shared layout for both phones",
+    "Faster, more accurate PDF answers with page citations",
+    "Reliable update checks with retry and More > Check for updates",
+    "Cleaner PDF reader with exact-page opening from search",
+    "New document categories and study facts"
   ],
   "forceUpdate": false,
-  "sha256": "AA8F30D27186C2993AD4A4679008D3F2880AC6CD174A444B0BE228251EEB8B07"
+  "sha256": "D86FD6D2D57F8953507A3F4181FC7820D9F549051E363DEAF79DABAE66157D03"
 }
