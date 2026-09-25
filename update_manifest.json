@@ -1,16 +1,16 @@
 {
-  "version": "1.0.15",
-  "versionCode": 16,
+  "version": "1.0.16",
+  "versionCode": 17,
   "apkUrl": "https://github.com/icecreamsoda213456/panpanskii-app-updates/releases/latest/download/app-release.apk",
-  "title": "Shared garden and smarter PDFs",
-  "message": "Your garden is now one shared space, PDF answers are faster and more accurate, and updates check themselves reliably.",
+  "title": "Scrollable PDFs and livelier blooms",
+  "message": "PDF pages now respond reliably to vertical swipes, and Our Blooms has a brighter, more animated shared garden.",
   "changes": [
-    "Cozy Garden now runs on one shared layout for both phones",
-    "Faster, more accurate PDF answers with page citations",
-    "Reliable update checks with retry and More > Check for updates",
-    "Cleaner PDF reader with exact-page opening from search",
-    "New document categories and study facts"
+    "PDF pages now scroll reliably with vertical swipes on Android",
+    "Larger harvested flowers that remain easy to arrange",
+    "Animated butterflies and a bee in Our Blooms",
+    "Richer sky, sunlight, meadow, grass, and garden atmosphere",
+    "Garden motion respects the device accessibility setting"
   ],
   "forceUpdate": false,
-  "sha256": "D86FD6D2D57F8953507A3F4181FC7820D9F549051E363DEAF79DABAE66157D03"
+  "sha256": "FE12B13FE21734B8A076EA97D30F4EB9F50C121EA1BB9D27AE6FB8905B5E141B"
 }
